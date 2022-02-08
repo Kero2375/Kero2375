@@ -1,4 +1,4 @@
-### Hi there 👋🏻 I'm Federico <sub><sup>[a.k.a. Kero.2375]</sup></sub>
+### Hello there! 👋🏻 I'm Federico <sub><sup>[a.k.a. Kero.2375]</sup></sub>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/federico~carboni/">
