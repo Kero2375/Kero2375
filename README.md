@@ -1,4 +1,4 @@
-### Hello there! 👋🏻 I'm Federico <sub><sup>[a.k.a. Kero.2375]</sup></sub>
+### Hello there! 👋🏻 I'm Federico Carboni <sub><sup> —  a.k.a. Kero.2375</sup></sub>
 
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
@@ -17,7 +17,7 @@ I'm a Software Developer and student of University of Padova
   - 📚 I'm a student of the University of Padova 
   - 🏡 I'm from Italy
   - 🐧 I love Android and Linux
-  - 🎮 I love videogames
+  - 🎮 I love _(playing & building)_ videogames
   - 📨 How to reach me: <a href="mailto:f.carboni98@gmail.com">f.carboni98@gmail.com</a>
 
 ### Languages and Tools:
@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=kero2375&show_icons=true&theme=gotham&count_private=true&border_radius=6)
