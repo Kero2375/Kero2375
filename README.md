@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=kero2375&show_icons=true&theme=gotham&count_private=true&border_radius=6)
+![](https://github-readme-stats.vercel.app/api?username=kero2375&show_icons=true&theme=vue-dark&count_private=true&border_radius=0&hide_border=true)
